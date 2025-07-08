@@ -30,12 +30,12 @@ Source:_ [Kaggle: Traffic Prediction Dataset](https://www.kaggle.com/datasets/ha
 
 | Figure | Description                                                                      
 
-| ![Fig1](bike_bar.png)  | **Fig 1.** Hourly Bike Count (Bar Plot)|
-| ![Fig2](bus_bar.png)   | **Fig 2.** Hourly Bus Count (Bar Plot) |
-| ![Fig3](truck_car_bar.png) | **Fig 3.** Hourly Truck & Car Count (Bar Plot)<br/>_Peak at 4 PM; early‐morning truck activity noted._ |
-| ![Fig4](vehicle_pie.png) | **Fig 4.** Proportion of Bikes vs. Buses by Hour (Pie Charts)|
-| ![Fig5](hourly_trend.png) | **Fig 5.** Overall Traffic Trend Across Hours (Line Plot)|
-| ![Fig6](bike_trend.png)   | **Fig 6.** Bike‐Specific Trend Across Hours (Line Plot)|
+ | **Fig 1.** Hourly Bike Count (Bar Plot)|
+ | **Fig 2.** Hourly Bus Count (Bar Plot) |
+ | **Fig 3.** Hourly Truck & Car Count (Bar Plot)<br/>_Peak at 4 PM; early‐morning truck activity noted._ |
+ | **Fig 4.** Proportion of Bikes vs. Buses by Hour (Pie Charts)|
+ | **Fig 5.** Overall Traffic Trend Across Hours (Line Plot)|
+ | **Fig 6.** Bike‐Specific Trend Across Hours (Line Plot)|
 
 
 ## 📝 Key Insights  
@@ -49,6 +49,6 @@ Upcoming enhancements—such as adding speed metrics—will bolster predictive m
 
 
 ## 📚 References  
-1. Hasibullah Aman, “Traffic Prediction Dataset,” Kaggle, 2020. :contentReference[oaicite:3]{index=3}  
-2. … _(add any additional sources you consulted)_
+1. Hasibullah Aman, “Traffic Prediction Dataset,” Kaggle, 2020.
+
 
